@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dragon Ball Fusion Lab</string>
+    <string name="title_activity_main">Dragon Ball Fusion Lab</string>
+    <string name="package_name">com.dbz.fusion.lab</string>
+    <string name="custom_url_scheme">com.dbz.fusion.lab</string>
+</resources>
